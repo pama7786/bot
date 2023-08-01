@@ -28,12 +28,12 @@ To use this repo on your machine requires some simple steps
 - Clone the repo into your folder of choice by using the following:
 
 
-        https://github.com/abdilatifshukri/react-hooks-week-2-code-challange
+        https://github.com/pama7786/bot.git
 
 - Change directory to the repo folder:
 
 
-        cd wk1-code-challenge-bank-of-flatiron
+        cd bot
 
 - (Optional) Open it in Visual Studio Code
 
@@ -55,7 +55,7 @@ To use this repo on your machine requires some simple steps
 - Remember to use your username when cloning.
 
 
-        git clone https://github.com/your-username-here/react-hooks-week-2-code-challange.git
+        git clone https://github.com/pama7786/bot.git
 
 ### Running the application
 
@@ -63,17 +63,14 @@ If you wish to run application from cloned repository:
 
 - In the terminal run the command: `npm start`
 
-If you wish to access the application without cloning it to your computer,simply follow this simple step:
-- Access the website by going to the following link:
-   
-               https://deluxe-bubblegum-edd28c.netlify.app/
----
+
+
 ## Authors
 
 This project was contributed to by:
 
 
-- [abdilatif Shukri](https://github.com/abdilatifshukri)
+- [Abdirahman diis]()
 
 
 ## License
