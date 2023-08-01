@@ -55,7 +55,7 @@ To use this repo on your machine requires some simple steps
 - Remember to use your username when cloning.
 
 
-        git clone https://github.com/pama7786/bot.git
+        git clone git@github.com:pama7786/bot.git
 
 ### Running the application
 
@@ -70,7 +70,7 @@ If you wish to run application from cloned repository:
 This project was contributed to by:
 
 
-- [Abdirahman diis]()
+- [Abdirahman diis](https://github.com/pama7786)
 
 
 ## License
